@@ -1,1 +1,0 @@
-请求异常：连接错误 - HTTPSConnectionPool(host='api.minimax.chat', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ReadTimeoutError("HTTPSConnectionPool(host='api.minimax.chat', port=443): Read timed out. (read timeout=120)"))
